@@ -1,0 +1,1 @@
+//assign a prime number to each alphabet. do the product of each string.if product is same- anagrams
